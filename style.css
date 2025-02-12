@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #d8e2dc; 
+}
+
+p {
+ color:  #51344D;
+ font-family: Roboto, sans-serif;
+ font-size: 20px;
+ padding: 0.5em;
+}
+/* STYLE TEXT */
+
+h1 {
+  color: #51344D;
+  font-family: Amatic SC, cursive;
+  font-size: 80px;
+  padding-top: 15px;
+  text-align: center;
+  
+  
+}
+h2 {
+  color:#51344D;
+  font-family: Amatic SC, cursive;
+  font-size: 40px;
+  padding: 0.5em;
+}
+
+img {
+  max-height: 40%;
+  max-width: 40%;
+  border-radius: 50%;
+  border: 3px solid #51344D; 
+}
+
+#logo {
+  max-height: 30%;
+  max-width: 30%;
+  border-radius: 50%;
+  border: 3px solid #51344D; 
+  margin-top: 5%;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+main {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-bottom: 5em;
+}
+
+a {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+}
+
+
+.project {
+  border-radius: 0; 
+}
+
+#title {
+  font-family: Amatic SC, cursive;
+  font-size: 90px;
+  padding-top: 15px;
+  text-align: center;
+}
+
+/* STYLE IMAGES */
+
+ul {
+  list-style-type: none;
+  background-color: #51344D;
+  overflow: hidden;
+  padding: 1em;
+
+  
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-family: Amatic SC, cursive;
+  font-size: 2em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: #ebcdcd;
+}
+/* STYLE NAV BAR */
